@@ -8,10 +8,11 @@ To use the dashboard type the name of a city in the search box and select the sp
 
 Below is a screen shot of the weather dashboard:
 
-![The finished Weather Dashboard](assets/images/Weather-Dashboard.png)
+![The sample Website Image](assets/images/Weather-Dashboard.png)
+![The finished Weather Dashboard](assets/images/MyWeatherDashboardScreenshot.png)
 
 Below is a link to the site:
 
-https://codyg-2021.github.io/06-Server-Side-APIs-Weather-Dashboard/
+
 
 ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
