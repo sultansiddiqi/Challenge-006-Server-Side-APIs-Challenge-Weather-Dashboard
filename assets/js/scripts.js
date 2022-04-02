@@ -8,8 +8,9 @@
    }
    setInterval(time, 1000);
 
-
+//API Key
 var key = '6bcab2d31c5c1a2f7679b670720f2b64';
+//Placeholder
 var city = "Toronto"
 
 //Grabs the current time and date
