@@ -57,3 +57,9 @@ body {
 .cardTodayDate {
 	font-size: 20px;
 }
+
+footer {
+	background-color: rgb( 200, 235 , 238);
+	text-align: center;
+	font-size: .5rem;
+}
