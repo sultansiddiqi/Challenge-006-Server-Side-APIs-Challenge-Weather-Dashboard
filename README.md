@@ -6,6 +6,13 @@
 ## Link to Challenge 
 https://sultansiddiqi.github.io/Challenge-006-Server-Side-APIs-Challenge-Weather-Dashboard/
 
+## Link to Assignment Repository
+https://github.com/sultansiddiqi/Challenge-006-Server-Side-APIs-Challenge-Weather-Dashboard
+
+## Link to Repository
+https://github.com/sultansiddiqi
+
+
 ## Project Description
 
 The purpose of this website is to allow a user to search a city and get the current weather, as well as a five day forecast with relevant information. It will also store the past search results allowing the user to select them and see that cities weather data again.  
