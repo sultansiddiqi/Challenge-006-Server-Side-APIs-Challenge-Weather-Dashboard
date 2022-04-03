@@ -81,9 +81,6 @@ function getWeatherToday() {
 		// Temperature
 		var pEl = $('<p>').text(`Temperature: ${response.main.temp} °C`);
 		cardTodayBody.append(pEl);
-		//Feels Like
-		var pElTemp = $('<p>').text(`Feels Like: ${response.main.feels_like} °C`);
-		cardTodayBody.append(pElTemp);
 		//Humidity
 		var pElHumid = $('<p>').text(`Humidity: ${response.main.humidity} %`);
 		cardTodayBody.append(pElHumid);
@@ -179,9 +176,6 @@ function getFiveDayForecast() {
 			//Temp
 			var pElTemp = $('<p>').text(`Temperature: ${myWeather[i].temp} °C`);
 			divElBody.append(pElTemp);
-			//Feels Like
-			var pElFeel = $('<p>').text(`Feels Like: ${myWeather[i].feels_like} °C`);
-			divElBody.append(pElFeel);
 			//Wind Speed
 			var pElWind = $('<p>').text(`Wind Speed: ${myWeather[i].wind_speed}  KPH`);
 			divElBody.append(pElWind);
